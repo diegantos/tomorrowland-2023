@@ -1,5 +1,11 @@
 @import './../../../partials/_mixins.scss';
 
+.header{
+    position: absolute;
+    z-index: 5;
+    width: 100%
+}
+
 // Top Bar
 .TopBar {
     width: 100%;
