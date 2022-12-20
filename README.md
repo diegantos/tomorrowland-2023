@@ -2,7 +2,7 @@
 
 # Copycat: TomorrowLand 2023
 
-Esta es la copia de la web de la marca de skateboard DC Shoe USA donde practicamos bastante con Grid y explicamos bastantes conceptos sobre las imágenes.
+Esta es la copia de la web del festival Tomorrowland hecha con React.
 
 [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://www.tomorrowland.com/en/festival/welcome)
 [![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/tomorrowland-2023/)
@@ -16,11 +16,11 @@ Esta es la copia de la web de la marca de skateboard DC Shoe USA donde practicam
 
 > Aclaraciones:
 >
-> No ha sido probado para tener soporte crossbrowsing
+> No ha sido probado para tener soporte crossbrowsing.
 >
-> El diseño de la web original puede variar
+> El diseño de la web original puede variar.
 >
-> Ha sido programado con fines de entretenimiento
+> Ha sido programado con fines de entretenimiento.
 >
 > No lo uses en tu propio portfolio sino como referencia o práctica
 
