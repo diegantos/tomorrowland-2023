@@ -19,9 +19,9 @@ Esta es la copia de la web del festival Tomorrowland hecha con React en equipo.
 ## Vista previa del proyecto
 Si quieres hechar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://user-images.githubusercontent.com/118907489/204322965-348bbd4c-6153-4c59-83f4-7e1755909130.png)
-![Captura del proyecto](https://user-images.githubusercontent.com/118907489/204323725-d4e7cfcd-21c7-4976-99cf-030641f0fec9.png)
-![Captura del proyecto](https://user-images.githubusercontent.com/118907489/204322978-785e6e7c-c4fa-4b20-a849-19003fe1c574.png)
+![Captura del proyecto](https://user-images.githubusercontent.com/118907489/208725363-b8d258d0-621e-43f1-b010-3a806f3506e2.png)
+![Captura del proyecto](https://user-images.githubusercontent.com/118907489/208725392-51443504-c1f6-4fea-86ba-0551561a2d28.png)
+![Captura del proyecto](https://user-images.githubusercontent.com/118907489/208725399-1d8f3c19-cf85-4e2f-b422-b74c18e7d84a.png)
 
 > Aclaraciones:
 >
