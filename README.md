@@ -2,7 +2,7 @@
 
 # Copycat: TomorrowLand 2023
 
-Esta es la copia de la web del festival Tomorrowland hecha con React en equipo.
+Esta es la copia de la web del festival Tomorrowland donde hemos practicado a trabajar con componentes de React en equipo.
 
 ## Ejemplo en vivo
 
