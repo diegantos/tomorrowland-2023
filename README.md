@@ -16,6 +16,13 @@ Esta es la copia de la web del festival Tomorrowland hecha con React en equipo.
 ![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
 ![ReactJS](https://img.shields.io/static/v1?label=&message=reactjs&color=17A1E6&logo=react&logoColor=white&style=for-the-badge)
 
+## Vista previa del proyecto
+Si quieres hechar un vistazo al proyecto, te recomiendo:
+
+![Captura del proyecto](https://user-images.githubusercontent.com/118907489/204322965-348bbd4c-6153-4c59-83f4-7e1755909130.png)
+![Captura del proyecto](https://user-images.githubusercontent.com/118907489/204323725-d4e7cfcd-21c7-4976-99cf-030641f0fec9.png)
+![Captura del proyecto](https://user-images.githubusercontent.com/118907489/204322978-785e6e7c-c4fa-4b20-a849-19003fe1c574.png)
+
 > Aclaraciones:
 >
 > No ha sido probado para tener soporte crossbrowsing.
