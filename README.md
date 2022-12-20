@@ -22,7 +22,7 @@ Esta es la copia de la web del festival Tomorrowland hecha con React.
 >
 > Ha sido programado con fines de entretenimiento.
 >
-> No lo uses en tu propio portfolio sino como referencia o práctica
+> No lo uses en tu propio portfolio sino como referencia o práctica.
 
 ## 👨🏻‍🏫 Equipo de trabajo
  
